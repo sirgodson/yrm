@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Youth Revival Movement</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Youth Revival Movement - Transforming lives and raising a generation that seeks God.">
+    <meta name="author" content="Youth Revival Team">
+    <meta name="keywords" content="Youth Revival, Jesus, Spiritual Growth, Ministries, Events">
+    <link rel="icon" href="images/youth-revival-icon.png">
+    <link rel="stylesheet" type="text/css" href="css/animate.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/slick.css">
+    <link rel="stylesheet" type="text/css" href="css/slick-theme.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/color.css">
+    <link rel="stylesheet" type="text/css" href="css/responsive.css">
+</head>
+
+
+<body>
+
+	<div class="preloader">
+		<div class="loader-content">
+			<h2>Welcome to the Youth Revival Movement</h2>
+			<img src="images/loader.gif" alt="">
+		</div>
+	</div><!--preloader end-->
+	
+	<div class="left-sidebar">
+		<a href="#" title="" class="menu-btn">
+		<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+			<path d="M2 5H32C32.5523 5 33 5.44772 33 6C33 6.55228 32.5523 7 32 7H2C1.44772 7 1 6.55228 1 6C1 5.44772 1.44772 5 2 5Z" fill="white"/>
+			<path d="M2 17H32C32.5523 17 33 17.4477 33 18C33 18.5523 32.5523 19 32 19H2C1.44772 19 1 18.5523 1 18C1 17.4477 1.44772 17 2 17Z" fill="white"/>
+			<path d="M2 29H32C32.5523 29 33 29.4477 33 30C33 30.5523 32.5523 31 32 31H2C1.44772 31 1 30.5523 1 30C1 29.4477 1.44772 29 2 29Z" fill="white"/>
+		</svg>
+		</a>
+		<ul class="mbl-menu">
+			<li><a href="#" title="">Linkedin</a></li>
+			<li><a href="#" title="">Behance</a></li>
+		</ul>
+	</div><!--left-sidebar end-->
+
+	<div class="wrapper">
+
+		<header class="pb">
+			<div class="container">
+				<div class="header-content">
+					<div class="logo">
+						<a href="index.php" title="">
+							<img src="images/logo copy.png" alt="">
+						</a>
+					</div><!--logo end-->
+					<nav>
+						<ul>
+							<li><a href="about.php" title="">About us</a></li>
+							<li><a href="cases.php" title="">Ministries</a></li>
+							<li><a href="contact.php" title="">Contact</a></li>
+						</ul>
+					</nav><!--navigation end-->
+					<div class="right-side-hd">
+						<span>+263 78 901 2345</span>
+						<a href="#" title="" class="btn-default">Events</a>
+					</div>
+					<a href="#" title="" class="menu-btn">
+					<svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<path d="M2 5H32C32.5523 5 33 5.44772 33 6C33 6.55228 32.5523 7 32 7H2C1.44772 7 1 6.55228 1 6C1 5.44772 1.44772 5 2 5Z" fill="white"/>
+						<path d="M2 17H32C32.5523 17 33 17.4477 33 18C33 18.5523 32.5523 19 32 19H2C1.44772 19 1 18.5523 1 18C1 17.4477 1.44772 17 2 17Z" fill="white"/>
+						<path d="M2 29H32C32.5523 29 33 29.4477 33 30C33 30.5523 32.5523 31 32 31H2C1.44772 31 1 30.5523 1 30C1 29.4477 1.44772 29 2 29Z" fill="white"/>
+					</svg>
+
+					<div class="clearfix"></div>
+				</div><!--header-content end-->
+			</div>	
+		</header><!--header end-->
+
+		<div class="responsive-mobile-menu">
+			<div class="responsive-logo">
+				<img src="images/logo copy.png" alt="">
+			</div>
+			<ul>
+				<li><a href="services.php" title="">About us</a></li>
+				<li><a href="cases.php" title="">Ministries</a></li>
+				<li><a href="contact.php" title="">Contact us</a></li>
+				<li><a href="" title="">Events</a></li>
+			</ul>
+		</div><!--responsive-mobile-menu end-->
+
+		<section class="main-banner">
+			<div class="banner-slider">
+				<div class="banner-slide">
+					<div class="container">
+						<div class="main-banner-text">
+							<span class="wow fadeInUp" data-wow-delay="300ms">Youth Revival Movement</span>
+							<h1 class="wow fadeInUp" data-wow-delay="450ms">This Generation Will Not Escape Jesus <span></span></h1>
+							<p class="wow fadeInUp" data-wow-delay="600ms">Psalm 24:6 (AMP) 6 This is the generation (description) of those who diligently seek Him and require Him as their greatest need,
+																			Who seek Your face, even [as did] Jacob. Selah.</p>
+							<div class="play-video-div wow fadeInUp" data-wow-delay="800ms">
+								<div class="poly1">
+								<div class="poly2">
+										<a href="images/yrmv.mp4" title="" class="play-video html5lightbox">
+											<img src="images/icon1.svg" alt="">
+										</a>
+									</div>
+								</div>
+								<div class="pl-text">
+									<h3>About Us</h3>
+									<span>Who are we?</span>
+								</div>
+							</div>
+						</div><!--main-banner-text end-->
+					</div>
+				</div><!--banner-slide end-->
+				<div class="banner-slide">
+					<div class="container">
+						<div class="main-banner-text">
+							<span>Youth Revival Movement</span>
+							<h1>We are raising a generation that seeks God above all else. <span></span></h1>
+							<p>Guiding youth to make God their priority.</p>
+							<div class="play-video-div">
+								<div class="poly1">
+									<div class="poly2">
+										<a href="#" title="" class="play-video">
+											<img src="images/icon1.svg" alt="">
+										</a>
+									</div>
+								</div>
+								<div class="pl-text">
+									<h3>About Us</h3>
+									<span>Who are we?</span>
+								</div>
+							</div>
+						</div><!--main-banner-text end-->
+					</div>
+				</div><!--banner-slide end-->
+				<div class="banner-slide">
+					<div class="container">
+						<div class="main-banner-text">
+							<span>Youth Revival Movement</span>
+							<h1>Revival starts with us and spreads to the world. <span></span></h1>
+							<p>Fostering transformation that impacts others.</p>
+							<div class="play-video-div">
+								<div class="poly1">
+									<div class="poly2">
+										<a href="#" title="" class="play-video">
+											<img src="images/icon1.svg" alt="">
+										</a>
+									</div>
+								</div>
+								<div class="pl-text">
+									<h3>About Us</h3>
+									<span>Who are we?</span>
+								</div>
+							</div>
+						</div><!--main-banner-text end-->
+					</div>
+				</div><!--banner-slide end-->
+			</div><!--banner-slider end-->
+		</section><!--main-banner end-->
+
+		<section class="sec-block overlay">
+			<h2 class="page-number bottom">02.</h2>
+			<div class="bg-position left-position"></div>
+			<div class="container">
+				<div class="expt-text float-right">
+					<div class="main-banner-text title-hd wow slideInRight" data-wow-delay="300ms">
+						<span>about us</span>
+						<h1>We Are Passionate About Revival <span></span></h1>
+						<p>The Youth Revival Movement is led by a dedicated team of individuals committed to empowering and transforming lives for over a decade. </p>
+						<p class="bdy">Through our efforts, countless lives have been impacted, and our events have sparked a hunger for God in communities worldwide. 
+							Each day begins with prayer and strategic planning, ensuring our mission remains Christ-centered and impactful. Discussions and brainstorming 
+							sessions are vital, leading to innovative ways to reach and inspire young people. <br>
+							We approach every task with renewed passion and a deep sense of purpose, knowing that our work is advancing God’s Kingdom. There’s never a dull moment as we see lives changed and revival spread! </p>
+						<a href="about.php" title="" class="btn-default2">read more <img src="images/icon4.svg" alt=""></a>
+					</div>
+				</div><!--expt-text end-->
+				<div class="clearfix"></div>
+			</div>
+		</section>
+
+		<section class="sec-block">
+			<div class="fixed-bg bg3"></div>
+			<h2 class="page-number">03</h2>
+			<div class="container">
+				<div class="main-banner-text title-hd svs-header wow fadeInLeft" data-wow-delay="500ms">
+					<span>Our Ministries & Initiatives</span>
+					<h1>We Serve with Purpose <span></span></h1>
+					<p class="bdy">Discover how our ministries and initiatives are impacting lives and building a generation for Christ. </p>
+				</div>
+			</div>
+			<div class="services-section">
+				<div class="container">
+					<div class="row svs-carousel">
+						<div class="col-lg-3">
+							<div class="service-col wow fadeIn" data-wow-delay="300ms">
+								<div class="svs-icon">
+									<img src="images/icon5.svg" alt="">
+								</div>
+								<h3>Youth and Young Adults Ministry</h3>
+								<a href="" title="" class="btn-default2">read more</a>
+							</div><!--service-col end-->
+						</div>
+						<div class="col-lg-3">
+							<div class="service-col wow fadeIn" data-wow-delay="600ms">
+								<div class="svs-icon">
+									<img src="images/icon6.svg" alt="">
+								</div>
+								<h3>Ladies Ministry</h3>
+								<a href="" title="" class="btn-default2">read more</a>
+							</div><!--service-col end-->
+						</div>
+						<div class="col-lg-3">
+							<div class="service-col wow fadeIn" data-wow-delay="900ms">
+								<div class="svs-icon">
+									<img src="images/icon7.svg" alt="">
+								</div>
+								<h3>Media Team</h3>
+								<a href="" title="" class="btn-default2">read more</a>
+							</div><!--service-col end-->
+						</div>
+						<div class="col-lg-3">
+							<div class="service-col wow fadeIn" data-wow-delay="1200ms">
+								<div class="svs-icon">
+									<img src="images/icon8.svg" alt="">
+								</div>
+								<h3>Music Ministry</h3>
+								<a href="" title="" class="btn-default2">read more</a>
+							</div><!--service-col end-->
+						</div>
+						<div class="col-lg-3">
+							<div class="service-col">
+								<div class="svs-icon">
+									<img src="images/icon5.svg" alt="">
+								</div>
+								<h3>Youth and Young Adults Ministry</h3>
+								<a href="" title="" class="btn-default2">read more</a>
+							</div><!--service-col end-->
+						</div>
+						<div class="col-lg-3">
+							<div class="service-col">
+								<div class="svs-icon">
+									<img src="images/icon6.svg" alt="">
+								</div>
+								<h3>Ladies Ministry</h3>
+								<a href="" title="" class="btn-default2">read more</a>
+							</div><!--service-col end-->
+						</div>
+						<div class="col-lg-3">
+							<div class="service-col">
+								<div class="svs-icon">
+									<img src="images/icon7.svg" alt="">
+								</div>
+								<h3>Media Team</h3>
+								<a href="" title="" class="btn-default2">read more</a>
+							</div><!--service-col end-->
+						</div>
+						<div class="col-lg-3">
+							<div class="service-col">
+								<div class="svs-icon">
+									<img src="images/icon8.svg" alt="">
+								</div>
+								<h3>Music Ministry</h3>
+								<a href="" title="" class="btn-default2">read more</a>
+							</div><!--service-col end-->
+						</div>
+					</div>
+				</div>
+			</div><!--services-section end-->
+		</section>
+
+		<section class="sec-block overlay">
+    <div class="bg-position right-position"></div>
+    <div class="container">
+        <div class="consulation-section">
+            <div class="main-banner-text title-hd wow fadeInUp" data-wow-delay="300ms">
+                <span>let’s get started</span>
+                <h1>Join the Movement <span></span></h1>
+                <p class="bdy">We’re eager to connect and work together in fulfilling God’s vision for this generation. 
+					Share with us how you’d like to get involved, and we’ll support you in your journey.</p>
+            </div><!--title-hd end-->
+            <div class="contact-form wow fadeInUp" data-wow-delay="300ms">
+                <form method="post" action="#" id="contact-form">
+                    <div class="response"></div>
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="input-field">
+                                <input type="text" name="name" class="name" placeholder="Your Name">
+                            </div><!--input-field end-->
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="input-field">
+                                <input type="text" name="email" class="email" placeholder="Your Email Address">
+                            </div><!--input-field end-->
+                        </div>
+                        <div class="col-lg-12">
+                            <div class="input-field">
+                                <textarea name="message" placeholder="Your Message / Prayer Request"></textarea>
+                            </div><!--input-field end-->
+                        </div>
+                        <div class="col-lg-12">
+                            <div class="input-field m-0">
+                                <button type="button" class="btn-default" id="submit">Get Involved</button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div><!--contact-form end-->
+        </div><!--consulation-section end-->
+    </div>
+</section>
+
+
+<section class="sec-block why-choose-us">
+    <div class="fixed-bg bg6"></div>
+    <h2 class="page-number">05</h2>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-5">
+                <div class="counter-section">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                            <div class="counter-div gradient-bg1 wow fadeInUp" data-wow-delay="300ms">
+                                <h2>1000 <sup>+</sup></h2>
+                                <span>People Reached</span>
+                            </div><!--counter-div end-->
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                            <div class="counter-div scnd-dv gradient-bg1 wow fadeInUp" data-wow-delay="600ms">
+                                <h2>5 <sup>+</sup></h2>
+                                <span>Key Milestones</span>
+                            </div><!--counter-div end-->
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                            <div class="counter-div gradient-bg2 wow fadeInUp" data-wow-delay="900ms">
+                                <h2>50 <sup>+</sup></h2>
+                                <span>Active Participants</span>
+                            </div><!--counter-div end-->
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                            <div class="counter-div frht gradient-bg2 wow fadeInUp" data-wow-delay="1200ms">
+                                <h2>500 <sup>+</sup></h2>
+                                <span>Outreach Projects</span>
+                            </div><!--counter-div end-->
+                        </div>
+                    </div>
+                </div><!--counter-section end-->
+            </div>
+            <div class="col-lg-7">
+                <div class="why-we-sec">
+                    <div class="main-banner-text title-hd wow fadeInUp" data-wow-delay="300ms">
+                        <span>a few words</span>
+                        <h1>Why Join the Movement <span></span></h1>
+                        <p>We’ve seen lives transformed and individuals empowered through God's grace. Join us in impacting our communities and beyond.</p>
+                    </div><!--title-hd end-->
+                    <ul class="our-features-list wow fadeInDown" data-wow-delay="600ms">
+                        <li>
+                            <h3>Faith-driven Vision</h3>
+                            <p>Our mission is centered on God’s calling to reach young hearts and transform lives through the power of the Holy Spirit.</p>
+                        </li>
+                        <li>
+                            <h3>Impactful Outreach Programs</h3>
+                            <p>We've been organizing events, workshops, and outreaches for several years, reaching youth and empowering them to be leaders in Christ.</p>
+                        </li>
+                    </ul><!--our-features-list end-->
+                </div><!--why-we-sec end-->
+            </div>
+        </div>
+    </div>
+</section><!--why-choose-us end-->
+
+
+<section class="sec-block">
+    <div class="fixed-bg bg4"></div>
+    <h2 class="page-number">06.</h2>
+    <div class="container">
+        <div class="section-head">
+            <div class="main-banner-text title-hd wow fadeInUp" data-wow-delay="300ms">
+                <span>Impact Stories</span>
+                <h1>Transforming Lives Through Outreach <span></span></h1>
+                <p class="bdy">We strive to impact lives by sharing the Gospel, uplifting young people, and creating meaningful change. Here are some of the stories of lives transformed through our outreach.</p>
+            </div><!--title-hd end-->
+            <a href="outreach-programs.php" title="" class="btn-default2">view all stories <img src="images/icon4.svg" alt=""></a>
+            <div class="clearfix"></div>
+        </div>
+        <div class="pft-items">
+            <div class="row">
+                <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                    <div class="pft-item wow fadeInUp" data-wow-delay="300ms">
+                        <img src="https://via.placeholder.com/380x490" alt="Youth Camp Experience">
+                        <div class="figcaption">
+                            <h2><a href="case-work.php" title="">Youth Camp Experience - Empowering Tomorrow’s Leaders</a></h2>
+                            <a href="case-work.php" title=""><img src="images/icon9.svg" alt=""></a>
+                        </div><!--figcaption end-->
+                    </div><!--pft-item end-->
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                    <div class="pft-item wow fadeInUp" data-wow-delay="600ms">
+                        <img src="https://via.placeholder.com/380x490" alt="Community Outreach in Mbare">
+                        <div class="figcaption">
+                            <h2><a href="case-work.php" title="">Community Outreach in Mbare - Spreading Hope</a></h2>
+                            <a href="case-work.php" title=""><img src="images/icon9.svg" alt=""></a>
+                        </div><!--figcaption end-->
+                    </div><!--pft-item end-->
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                    <div class="pft-item wow fadeInUp" data-wow-delay="900ms">
+                        <img src="https://via.placeholder.com/380x490" alt="Transforming Lives Through Leadership Training">
+                        <div class="figcaption">
+                            <h2><a href="case-work.php" title="">Transforming Lives Through Leadership Training</a></h2>
+                            <a href="case-work.php" title=""><img src="images/icon9.svg" alt=""></a>
+                        </div><!--figcaption end-->
+                    </div><!--pft-item end-->
+                </div>
+            </div>
+        </div><!--pft-items end-->
+    </div>
+</section><!--case-studies-section end-->
+
+
+<section class="sec-block">
+    <div class="fixed-bg bg5"></div>
+    <h2 class="page-number">07.</h2>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 wow slideInLeft" data-wow-delay="300ms">
+                <div class="main-banner-text title-hd">
+                    <span>Recent Posts</span>
+                    <h1>Latest in Youth Revival <span></span></h1>
+                    <p class="bdy">Stay updated with the latest news, teachings, and events from the Youth Revival Movement. Here, we share inspiring stories, ministry updates, and transformative content to empower the youth.</p>
+                </div><!--title-hd end-->
+                <div class="blog-posts">
+                    <div class="blog_post">
+                        <div class="blog-thumbnail">
+                            <img src="https://via.placeholder.com/170x170" alt="Youth Leadership Program">
+                        </div><!--blog-thumbnail end-->
+                        <div class="blog_info">
+                            <ul class="meta">
+                                <li>
+                                    <span class="category">Ministry</span>
+                                </li>
+                                <li>
+                                    <span>Oct 25, 2024</span>
+                                </li>
+                            </ul>
+                            <h2 class="post-title"><a href="" title="">Empowering Youth Through Leadership Training</a></h2>
+                            <a href="" title="" class="btn-default2">read more</a>
+                        </div>
+                    </div><!--blog_post end-->
+                    <div class="blog_post">
+                        <div class="blog-thumbnail">
+                            <img src="https://via.placeholder.com/170x170" alt="Youth Camp Outreach">
+                        </div><!--blog-thumbnail end-->
+                        <div class="blog_info">
+                            <ul class="meta">
+                                <li>
+                                    <span class="category">Outreach</span>
+                                </li>
+                                <li>
+                                    <span>Oct 20, 2024</span>
+                                </li>
+                            </ul>
+                            <h2 class="post-title"><a href="" title="">Spreading Hope: Our Youth Camp Experience</a></h2>
+                            <a href="" title="" class="btn-default2">read more</a>
+                        </div>
+                    </div><!--blog_post end-->
+                </div><!--blog-posts end-->
+            </div>
+            <div class="col-lg-6 wow slideInRight" data-wow-delay="300ms">
+                <div class="blog_post main">
+                    <div class="blog-thumbnail">
+                        <img src="https://via.placeholder.com/458x500" alt="Revival in Mbare">
+                    </div><!--blog-thumbnail end-->
+                    <div class="blog_info">
+                        <ul class="meta">
+                            <li>
+                                <span class="category">Ministry Updates</span>
+                            </li>
+                            <li>
+                                <span>Oct 18, 2024</span>
+                            </li>
+                        </ul>
+                        <h2 class="post-title"><a href="" title="">Revival in Mbare: Youth Coming Together for Change</a></h2>
+                    </div>
+                </div><!--blog_post end-->
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<footer>
+    <div class="container">
+        <div class="top-footer">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="tp-contact wow fadeInUp" data-wow-delay="300ms">
+                        <div class="main-banner-text title-hd">
+                            <span>newsletter</span>
+                            <h1>Stay Connected with Us <br /> Join the Movement <span></span></h1>
+                            <p class="bdy">Thank you for your interest in the Youth Revival Movement. Subscribe to receive updates on our latest events, programs, and inspiring stories.</p>
+                        </div><!--title-hd end-->
+                        <form class="newsletter-form">
+                            <input type="email" name="email" placeholder="Enter your email">
+                            <button type="submit"><img src="images/send.svg" alt="Subscribe"></button>
+                        </form>
+                        <div class="clearfix"></div>
+                    </div><!--tp-contact end-->
+                </div>
+                <div class="col-lg-6">
+                    <div class="testimonial-sec wow fadeInDown" data-wow-delay="300ms">
+                        <div class="testi-head">
+                            <div class="testi-thumb">
+                                <img src="https://via.placeholder.com/70x70" alt="Testimonial">
+                            </div>
+                            <div class="testi-info">
+                                <h3>keith Morgan</h3>
+                                <span>Youth Leader at Youth Revival Movement</span>
+                            </div>
+                        </div>
+                        <p>"The Youth Revival Movement has empowered me and many others to embrace our faith, build community, and take action for positive change. Join us in spreading hope!"</p>
+                        <img src="images/sing.png" alt="Signature">
+                    </div><!--testimonial-sec end-->
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+        </div><!--top-footer end-->
+        <div class="bottom-footer">
+            <div class="row">
+                <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                    <div class="widget widget-about wow fadeInUp" data-wow-delay="300ms">
+                        <img src="images/logo copy.png" alt="Youth Revival Logo">
+                        <p>Copyright © 2024 Youth Revival Movement. All rights reserved.</p>
+                    </div><!--widget-about end-->
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                    <div class="widget widget-para wow fadeInDown" data-wow-delay="600ms">
+                        <h3 class="widget-title">Operating Hours:</h3>
+                        <p>Mon - Fri: 8 am - 6 pm</p>
+                        <p>Sat, Sun: Events and Outreach Programs</p>
+                    </div><!--widget-para end-->
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                    <div class="widget widget-para wow fadeInUp" data-wow-delay="900ms">
+                        <h3 class="widget-title">Our Address:</h3>
+                        <p>123 Revival Street, Harare, Zimbabwe</p>
+                    </div><!--widget-para end-->
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                    <div class="widget widget-para wow fadeInDown" data-wow-delay="1200ms">
+                        <h3 class="widget-title">Contact Us:</h3>
+                        <span>+263 78 901 2345</span>
+                        <p>info@youthrevival.com</p>
+                    </div><!--widget-para end-->
+                </div>
+            </div>
+        </div><!--bottom-footer end-->
+    </div>
+</footer><!--footer end-->
+
+
+	</div><!--wrapper end-->
+	<div class="clearfix"></div>
+
+
+<script src="js/jquery.min.js"></script>
+<script src="js/popper.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/plugin/slick.min.js"></script>
+<script src="js/plugin/html5lightbox.js"></script>
+<script src="js/wow.min.js"></script>
+<script src="js/script.js"></script>
+
+
+</body>
+
+</html>
