@@ -38,7 +38,7 @@ $(window).on("load", function() {
         }
               
         $.ajax({
-            url:"sendemail.php",
+            url:"sendemail.html",
             method:"POST",
             data: $(form).serialize(),
             beforeSend:function(){
