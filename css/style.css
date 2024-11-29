@@ -393,7 +393,7 @@ button.btn-default {
 	background-color: inherit;
 }
 .btn-default:hover {
-	background-color: #dd4142;
+	background-color: #00ffff;
 	color: #fff;
 }
 
@@ -464,7 +464,7 @@ header .menu-btn {
 }
 .main-banner-text > h1 span {
 	display: inline-block;
-	background-color: #dc4242;
+	background-color: #00ffff;
 	width: 20px;
 	height: 20px;
 	-webkit-border-radius: 100px;
@@ -548,7 +548,7 @@ header .menu-btn {
 	color: #fff;
 	width: 80px;
 	height: 80px;
-	background-color: #dd4142;
+	background-color: #00ffff;
 	text-align: center;
 	line-height: 80px;
 }
@@ -660,7 +660,7 @@ header .menu-btn {
 	left: 0;
 	width: 100%;
 	height: 1px;
-	background-color: #dd4142;
+	background-color: #00ffff;
 }
 .btn-default2:hover:before {
 	width: 0;
@@ -790,7 +790,7 @@ header .menu-btn {
 	margin-top: 10px;
 }
 .input-field > .btn-default:hover {
-	background-color: #dd4142;
+	background-color: #00ffff;
 	color: #fff;
 }
 
@@ -921,11 +921,11 @@ header .menu-btn {
 }
 .pft-item:hover:before,
 .blog-page .blog_post.main:hover:before {
-	background: -webkit-linear-gradient(180deg, rgba(8, 10, 18, 0) 0%, #DD4242 100%); 
-	background: -moz-linear-gradient(180deg, rgba(8, 10, 18, 0) 0%, #DD4242 100%); 
-	background: -ms-linear-gradient(180deg, rgba(8, 10, 18, 0) 0%, #DD4242 100%); 
-	background: -o-linear-gradient(180deg, rgba(8, 10, 18, 0) 0%, #DD4242 100%); 
-	background: linear-gradient(180deg, rgba(8, 10, 18, 0) 0%, #DD4242 100%); 
+	background: -webkit-linear-gradient(180deg, rgba(8, 10, 18, 0) 0%, #00ffff 100%); 
+	background: -moz-linear-gradient(180deg, rgba(8, 10, 18, 0) 0%, #00ffff 100%); 
+	background: -ms-linear-gradient(180deg, rgba(8, 10, 18, 0) 0%, #00ffff 100%); 
+	background: -o-linear-gradient(180deg, rgba(8, 10, 18, 0) 0%, #00ffff 100%); 
+	background: linear-gradient(180deg, rgba(8, 10, 18, 0) 0%, #00ffff 100%); 
 	mix-blend-mode: soft-light;
 }
 .pft-item > img {
@@ -1014,7 +1014,7 @@ header .menu-btn {
 	margin-right: 0;
 }
 .meta li span.category {
-	background-color: #dc4242;
+	background-color: #00ffff;
 	color: #fff;
 	padding: 2px 16px 1px 16px;
 }
@@ -1040,7 +1040,7 @@ header .menu-btn {
 	margin-bottom: 42px;
 }
 .post-title:hover {
-	color: #dc4242;
+	color: #00ffff;
 }
 
 .blog_post.main .blog-thumbnail {
@@ -1111,7 +1111,7 @@ footer {
 	float: left;
 	width: 60px;
 	height: 60px;
-	background-color: #dd4142;
+	background-color: #00ffff;
 	line-height: 60px;
 	text-align: center;
 	border:0;
@@ -1465,7 +1465,7 @@ footer {
 	background:linear-gradient(180deg, rgba(25, 28, 38, 0) 0%, #191C26 100%);
 }
 .tema-col:hover:before {
-	background: linear-gradient(180deg, rgba(8, 10, 18, 0) 0%, #DD4242 100%);
+	background: linear-gradient(180deg, rgba(8, 10, 18, 0) 0%, #00ffff 100%);
 	mix-blend-mode: soft-light;
 }
 .tema-col:hover {
@@ -1637,7 +1637,7 @@ footer {
 	margin-bottom: 34px;
 }
 .price-col.active .price-head {
-	background-color: #dd4142;
+	background-color: #00ffff;
 } 
 .price-col.active {
 	-webkit-transform: translateY(-40px);
@@ -1730,7 +1730,7 @@ footer {
 	left: 0;
 	width: 6px;
 	height: 6px;
-	background-color: #dd4142;
+	background-color: #00ffff;
 	-webkit-transform: translateY(-50%);
 	-moz-transform: translateY(-50%);
 	-ms-transform: translateY(-50%);
